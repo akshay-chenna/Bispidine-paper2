@@ -7,3 +7,4 @@ Bispidine2 simulations
 5. deep\_dim\_reduction: Vampnet based dimensional reduction.
 6. hamsms: History augmented markov models.
 7. west\_analysis: Westpa post simulation analysis.
+8. LD\_metaD: Metadynamics.
